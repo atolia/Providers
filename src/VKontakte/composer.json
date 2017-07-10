@@ -1,10 +1,10 @@
 {
-    "name": "socialiteproviders/vkontakte",
+    "name": "socialiteproviders/vkontakte-fixed",
     "description": "VKontakte OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "Brian Faust",
-        "email": "hello@brianfaust.de"
+        "name": "Anatoly Rossinsky",
+        "email": "atolia@gmail.com"
     }],
     "require": {
         "php": "^5.6 || ^7.0",
